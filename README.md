@@ -3,7 +3,7 @@
 A wearable engineering prototype that combines **inertial sensing, machine learning-based tremor-like motion classification, and phase-timed vibrotactile feedback** to explore a technology-assisted approach to hand tremor monitoring.
 
 <p align="center">
-  <img src="images/prototype.jpg" width="500" alt="Wearable tremor glove hardware prototype"/>
+  <img src="images/prototype.jpeg" width="500" alt="Wearable tremor glove hardware prototype"/>
 </p>
 
 <p align="center">
